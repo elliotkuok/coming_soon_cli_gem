@@ -1,8 +1,6 @@
 # ComingSoonCliGem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/coming_soon_cli_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This CLI allows the user to view a list of movies that are coming soon to theatres and then select which movie the user would like to know more about.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Follow the command line prompts to use.
 
 ## Development
 
